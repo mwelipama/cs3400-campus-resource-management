@@ -45,4 +45,4 @@ written back when you exit through the menu.
 
 - M.E.C. Pama — 201404452
 - L.V. Soai — 202322577
-- R. Mphathle — 201902287
+- R. Mphatle — 201902287
