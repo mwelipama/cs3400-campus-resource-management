@@ -1,0 +1,21 @@
+L|Main Library
+L|Computer Science Building
+L|Administration Building
+L|Student Affairs
+L|Academic Building
+L|Refectory
+L|Science Laboratories
+L|Sports Centre
+L|Staff Housing
+L|Campus Clinic
+E|Main Library|Computer Science Building|120
+E|Main Library|Academic Building|90
+E|Main Library|Refectory|200
+E|Computer Science Building|Academic Building|60
+E|Computer Science Building|Science Laboratories|150
+E|Administration Building|Student Affairs|80
+E|Administration Building|Academic Building|110
+E|Student Affairs|Refectory|140
+E|Refectory|Sports Centre|250
+E|Science Laboratories|Sports Centre|300
+E|Staff Housing|Campus Clinic|70

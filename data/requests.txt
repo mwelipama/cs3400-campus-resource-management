@@ -1,0 +1,7 @@
+NEXT|1007
+N|1001|Thabo Mokoena|B001|1792748754|Pending|3
+N|1002|Palesa Khoase|R101|1792748754|Pending|3
+N|1003|Lerato Mohapi|E002|1792748754|Pending|3
+P|1005|Head Librarian|E003|1792748754|Pending|1
+P|1004|Lecturer CS3400|R201|1792748754|Pending|2
+P|1006|Exam Office|R202|1792748754|Pending|2

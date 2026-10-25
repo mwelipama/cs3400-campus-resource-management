@@ -1,0 +1,12 @@
+# Build artefacts
+*.o
+*.obj
+*.exe
+*.out
+campus_system
+limo_campus_sys
+
+# Editor / OS
+.vscode/
+.DS_Store
+Thumbs.db

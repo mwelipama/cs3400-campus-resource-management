@@ -1,0 +1,15 @@
+BOOK|B001|Introduction to Algorithms|Main Library, Shelf A1|5|Available|Cormen et al.
+BOOK|B002|Data Structures in C++|Main Library, Shelf A2|4|Available|Mark Allen Weiss
+BOOK|B003|Clean Code|Main Library, Shelf B1|2|Borrowed|Robert C. Martin
+BOOK|B004|Database System Concepts|Main Library, Shelf B3|3|Available|Silberschatz
+BOOK|B005|Operating System Concepts|Main Library, Shelf C2|3|Available|Silberschatz
+BOOK|B006|Discrete Mathematics|Main Library, Shelf D4|6|Available|Kenneth Rosen
+BOOK|B007|History of Lesotho|Special Collection|1|Maintenance|Moshoeshoe Archive
+ROOM|R101|Study Room 1|Library Floor 1|6|Available|1
+ROOM|R102|Study Room 2|Library Floor 1|4|Available|1
+ROOM|R201|Group Discussion Room|Library Floor 2|12|Available|2
+ROOM|R202|Silent Study Hall|Library Floor 2|40|Available|2
+EQUIPMENT|E001|Laptop Trolley|Circulation Desk|10|Available|Good
+EQUIPMENT|E002|Projector|Circulation Desk|3|Available|Good
+EQUIPMENT|E003|Book Scanner|Digital Services|2|Maintenance|Needs new lamp
+EQUIPMENT|E004|Portable Whiteboard|Circulation Desk|5|Available|Fair
