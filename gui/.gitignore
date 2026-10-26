@@ -1,0 +1,19 @@
+# build artifacts and installed runtime — never committed
+build/
+release/
+*.o
+*.obj
+moc_*.cpp
+moc_*.h
+qrc_*.cpp
+ui_*.h
+.qmake.stash
+Makefile
+Makefile.*
+# logs and scratch from the build/install scripts
+*_log.txt
+qt_probe.txt
+# install / one-off scaffolding (not part of the deliverable)
+setup1_probe.bat
+setup2_install.bat
+push.bat

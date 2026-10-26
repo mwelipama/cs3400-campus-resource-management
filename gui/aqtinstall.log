@@ -1,0 +1,57 @@
+2026-10-26 03:16:12,321 - aqt.main - INFO - installer 8700 aqtinstall(aqt) v3.3.0 on Python 3.13.14 [CPython MSC v.1944 64 bit (AMD64)]
+2026-10-26 03:16:12,326 - aqt.helper - DEBUG - helper 8700 Attempt to download checksum at https://download.qt.io/online/qtsdkrepository/windows_x86/desktop/qt6_681/qt6_681/Updates.xml.sha256
+2026-10-26 03:16:19,897 - aqt.helper - DEBUG - helper 8700 Attempt to download checksum at https://download.qt.io/online/qtsdkrepository/windows_x86/extensions/qtwebengine/681/mingw/Updates.xml.sha256
+2026-10-26 03:16:24,404 - aqt.helper - DEBUG - helper 8700 Attempt to download checksum at https://download.qt.io/online/qtsdkrepository/windows_x86/extensions/qtwebengine/681/mingw/Updates.xml.sha256
+2026-10-26 03:16:27,824 - aqt.helper - DEBUG - helper 8700 Attempt to download checksum at https://download.qt.io/online/qtsdkrepository/windows_x86/extensions/qtwebengine/681/mingw/Updates.xml.sha256
+2026-10-26 03:16:31,145 - aqt.helper - DEBUG - helper 8700 Attempt to download checksum at https://download.qt.io/online/qtsdkrepository/windows_x86/extensions/qtwebengine/681/mingw/Updates.xml.sha256
+2026-10-26 03:16:35,094 - aqt.helper - DEBUG - helper 8700 Attempt to download checksum at https://download.qt.io/online/qtsdkrepository/windows_x86/extensions/qtwebengine/681/mingw/Updates.xml.sha256
+2026-10-26 03:16:38,508 - aqt.helper - DEBUG - helper 8700 Attempt to download checksum at https://download.qt.io/online/qtsdkrepository/windows_x86/extensions/qtpdf/681/mingw/Updates.xml.sha256
+2026-10-26 03:16:45,825 - aqt.archives - INFO - archives 8700 Found extension qtpdf
+2026-10-26 03:16:54,412 - aqt.helper - DEBUG - helper 21816 Attempt to download checksum at https://download.qt.io/online/qtsdkrepository/windows_x86/desktop/qt6_681/qt6_681/qt.qt6.681.win64_mingw/6.8.1-0-202411221531qtbase-Windows-Windows_10_22H2-Mingw-Windows-Windows_10_22H2-X86_64.7z.sha256
+2026-10-26 03:16:57,926 - aqt.helper - INFO - helper 21816 Downloading qtbase...
+2026-10-26 03:16:57,927 - aqt.installer - DEBUG - installer 21816 Download URL: https://download.qt.io/online/qtsdkrepository/windows_x86/desktop/qt6_681/qt6_681/qt.qt6.681.win64_mingw/6.8.1-0-202411221531qtbase-Windows-Windows_10_22H2-Mingw-Windows-Windows_10_22H2-X86_64.7z
+2026-10-26 03:17:04,314 - aqt.helper - DEBUG - helper 21816 Asked to redirect(302) to: https://qtproject.mirror.liquidtelecom.com/online/qtsdkrepository/windows_x86/desktop/qt6_681/qt6_681/qt.qt6.681.win64_mingw/6.8.1-0-202411221531qtbase-Windows-Windows_10_22H2-Mingw-Windows-Windows_10_22H2-X86_64.7z
+2026-10-26 03:17:04,314 - aqt.helper - INFO - helper 21816 Redirected: qtproject.mirror.liquidtelecom.com
+2026-10-26 03:19:43,285 - aqt.installer - INFO - installer 21816 Finished installation of qtbase-Windows-Windows_10_22H2-Mingw-Windows-Windows_10_22H2-X86_64.7z in 168.91368120
+2026-10-26 03:20:37,922 - aqt.updater - INFO - updater 8700 Patching C:\Qt\6.8.1\mingw_64\lib\pkgconfig\Qt6Concurrent.pc
+2026-10-26 03:20:37,963 - aqt.updater - INFO - updater 8700 Patching C:\Qt\6.8.1\mingw_64\lib\pkgconfig\Qt6Core.pc
+2026-10-26 03:20:37,994 - aqt.updater - INFO - updater 8700 Patching C:\Qt\6.8.1\mingw_64\lib\pkgconfig\Qt6DBus.pc
+2026-10-26 03:20:38,027 - aqt.updater - INFO - updater 8700 Patching C:\Qt\6.8.1\mingw_64\lib\pkgconfig\Qt6Gui.pc
+2026-10-26 03:20:38,061 - aqt.updater - INFO - updater 8700 Patching C:\Qt\6.8.1\mingw_64\lib\pkgconfig\Qt6Network.pc
+2026-10-26 03:20:38,095 - aqt.updater - INFO - updater 8700 Patching C:\Qt\6.8.1\mingw_64\lib\pkgconfig\Qt6OpenGL.pc
+2026-10-26 03:20:38,123 - aqt.updater - INFO - updater 8700 Patching C:\Qt\6.8.1\mingw_64\lib\pkgconfig\Qt6OpenGLWidgets.pc
+2026-10-26 03:20:38,154 - aqt.updater - INFO - updater 8700 Patching C:\Qt\6.8.1\mingw_64\lib\pkgconfig\Qt6Platform.pc
+2026-10-26 03:20:38,183 - aqt.updater - INFO - updater 8700 Patching C:\Qt\6.8.1\mingw_64\lib\pkgconfig\Qt6PrintSupport.pc
+2026-10-26 03:20:38,221 - aqt.updater - INFO - updater 8700 Patching C:\Qt\6.8.1\mingw_64\lib\pkgconfig\Qt6Sql.pc
+2026-10-26 03:20:38,248 - aqt.updater - INFO - updater 8700 Patching C:\Qt\6.8.1\mingw_64\lib\pkgconfig\Qt6Test.pc
+2026-10-26 03:20:38,280 - aqt.updater - INFO - updater 8700 Patching C:\Qt\6.8.1\mingw_64\lib\pkgconfig\Qt6Widgets.pc
+2026-10-26 03:20:38,315 - aqt.updater - INFO - updater 8700 Patching C:\Qt\6.8.1\mingw_64\lib\pkgconfig\Qt6Xml.pc
+2026-10-26 03:20:38,347 - aqt.updater - INFO - updater 8700 Patching C:\Qt\6.8.1\mingw_64\lib\Qt6Concurrent.prl
+2026-10-26 03:20:38,375 - aqt.updater - INFO - updater 8700 Patching C:\Qt\6.8.1\mingw_64\lib\Qt6Core.prl
+2026-10-26 03:20:38,409 - aqt.updater - INFO - updater 8700 Patching C:\Qt\6.8.1\mingw_64\lib\Qt6DBus.prl
+2026-10-26 03:20:38,435 - aqt.updater - INFO - updater 8700 Patching C:\Qt\6.8.1\mingw_64\lib\Qt6DeviceDiscoverySupport.prl
+2026-10-26 03:20:38,466 - aqt.updater - INFO - updater 8700 Patching C:\Qt\6.8.1\mingw_64\lib\Qt6EntryPoint.prl
+2026-10-26 03:20:38,492 - aqt.updater - INFO - updater 8700 Patching C:\Qt\6.8.1\mingw_64\lib\Qt6ExampleIcons.prl
+2026-10-26 03:20:38,525 - aqt.updater - INFO - updater 8700 Patching C:\Qt\6.8.1\mingw_64\lib\Qt6ExamplesAssetDownloader.prl
+2026-10-26 03:20:38,587 - aqt.updater - INFO - updater 8700 Patching C:\Qt\6.8.1\mingw_64\lib\Qt6FbSupport.prl
+2026-10-26 03:20:38,618 - aqt.updater - INFO - updater 8700 Patching C:\Qt\6.8.1\mingw_64\lib\Qt6Gui.prl
+2026-10-26 03:20:38,652 - aqt.updater - INFO - updater 8700 Patching C:\Qt\6.8.1\mingw_64\lib\Qt6Network.prl
+2026-10-26 03:20:38,684 - aqt.updater - INFO - updater 8700 Patching C:\Qt\6.8.1\mingw_64\lib\Qt6OpenGL.prl
+2026-10-26 03:20:38,730 - aqt.updater - INFO - updater 8700 Patching C:\Qt\6.8.1\mingw_64\lib\Qt6OpenGLWidgets.prl
+2026-10-26 03:20:38,769 - aqt.updater - INFO - updater 8700 Patching C:\Qt\6.8.1\mingw_64\lib\Qt6PrintSupport.prl
+2026-10-26 03:20:38,809 - aqt.updater - INFO - updater 8700 Patching C:\Qt\6.8.1\mingw_64\lib\Qt6Sql.prl
+2026-10-26 03:20:38,856 - aqt.updater - INFO - updater 8700 Patching C:\Qt\6.8.1\mingw_64\lib\Qt6Test.prl
+2026-10-26 03:20:38,944 - aqt.updater - INFO - updater 8700 Patching C:\Qt\6.8.1\mingw_64\lib\Qt6Widgets.prl
+2026-10-26 03:20:38,977 - aqt.updater - INFO - updater 8700 Patching C:\Qt\6.8.1\mingw_64\lib\Qt6Xml.prl
+2026-10-26 03:20:39,033 - aqt.main - INFO - installer 8700 Finished installation
+2026-10-26 03:20:39,034 - aqt.main - INFO - installer 8700 Time elapsed: 266.71461860 second
+2026-10-26 03:20:42,853 - aqt.main - INFO - installer 23924 aqtinstall(aqt) v3.3.0 on Python 3.13.14 [CPython MSC v.1944 64 bit (AMD64)]
+2026-10-26 03:20:42,857 - aqt.helper - DEBUG - helper 23924 Attempt to download checksum at https://download.qt.io/online/qtsdkrepository/windows_x86/desktop/tools_mingw1310/Updates.xml.sha256
+2026-10-26 03:20:53,226 - aqt.helper - DEBUG - helper 14372 Attempt to download checksum at https://download.qt.io/online/qtsdkrepository/windows_x86/desktop/tools_mingw1310/qt.tools.win64_mingw1310/13.1.0-202407240918mingw1310.7z.sha256
+2026-10-26 03:20:56,155 - aqt.helper - INFO - helper 14372 Downloading qt.tools.win64_mingw1310...
+2026-10-26 03:20:56,156 - aqt.installer - DEBUG - installer 14372 Download URL: https://download.qt.io/online/qtsdkrepository/windows_x86/desktop/tools_mingw1310/qt.tools.win64_mingw1310/13.1.0-202407240918mingw1310.7z
+2026-10-26 03:20:59,073 - aqt.helper - DEBUG - helper 14372 Asked to redirect(302) to: https://qtproject.mirror.liquidtelecom.com/online/qtsdkrepository/windows_x86/desktop/tools_mingw1310/qt.tools.win64_mingw1310/13.1.0-202407240918mingw1310.7z
+2026-10-26 03:20:59,073 - aqt.helper - INFO - helper 14372 Redirected: qtproject.mirror.liquidtelecom.com
+2026-10-26 03:31:44,773 - aqt.installer - INFO - installer 14372 Finished installation of mingw1310.7z in 651.56762240
+2026-10-26 03:31:45,059 - aqt.main - INFO - installer 23924 Finished installation
+2026-10-26 03:31:45,059 - aqt.main - INFO - installer 23924 Time elapsed: 662.20906340 second
